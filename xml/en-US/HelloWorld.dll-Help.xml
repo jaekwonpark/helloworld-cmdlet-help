@@ -6,11 +6,11 @@
       <command:verb>Get</command:verb>
       <command:noun>Greetings</command:noun>
       <maml:description>
-        <maml:para>Synopsis at 11/30 10:05</maml:para>
+        <maml:para>Synopsis at 11/30 11:03</maml:para>
       </maml:description>
     </command:details>
     <maml:description>
-      <maml:para>Description at 11/30 10:05</maml:para>
+      <maml:para>Description at 11/30 11:03</maml:para>
     </maml:description>
     <command:syntax>
       <command:syntaxItem>
@@ -73,7 +73,7 @@
         <maml:title>-------------------------- Example 1 --------------------------</maml:title>
         <dev:code>PS C:\&gt; Helloworld &lt;mode&gt;</dev:code>
         <dev:remarks>
-          <maml:para>HelloWorld description 11/30 10:05</maml:para>
+          <maml:para>HelloWorld description 11/30 11:03</maml:para>
         </dev:remarks>
       </command:example>
     </command:examples>
