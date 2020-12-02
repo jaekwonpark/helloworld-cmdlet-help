@@ -6,11 +6,11 @@
       <command:verb>Get</command:verb>
       <command:noun>Greetings</command:noun>
       <maml:description>
-        <maml:para>Synopsis at 11/30 11:03</maml:para>
+        <maml:para>{{ Fill in the Synopsis }}</maml:para>
       </maml:description>
     </command:details>
     <maml:description>
-      <maml:para>Description at 11/30 11:03</maml:para>
+      <maml:para>{{ Fill in the Description }}</maml:para>
     </maml:description>
     <command:syntax>
       <command:syntaxItem>
@@ -71,9 +71,9 @@
     <command:examples>
       <command:example>
         <maml:title>-------------------------- Example 1 --------------------------</maml:title>
-        <dev:code>PS C:\&gt; Helloworld &lt;mode&gt;</dev:code>
+        <dev:code>PS C:\&gt; {{ Add example code here }}</dev:code>
         <dev:remarks>
-          <maml:para>HelloWorld description 11/30 11:03</maml:para>
+          <maml:para>Example description</maml:para>
         </dev:remarks>
       </command:example>
     </command:examples>
